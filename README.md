@@ -45,6 +45,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/HariNagaPandiaRajan/HariNagaPandiaRajan/output/snake.svg" alt="Snake animation" />
 
 ###
